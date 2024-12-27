@@ -1,2 +1,0 @@
-Follower: gggjjn
-  - Repo: gggjjn/0912
